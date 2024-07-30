@@ -4,37 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fb40b4-5cfc-40c7-842f-1d3a716867a0" name="Changes" comment="2024-0730-1" />
+    <list default="true" id="a6fb40b4-5cfc-40c7-842f-1d3a716867a0" name="Changes" comment="2024-0730-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Muninyu"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Muninyu/LeetCode.git",
-    "accountId": "93e2818c-b57c-4e53-b22a-3258e313b7ff"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2jxZqmE20wR28s3ZhzfUqaMgiBj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,11 +33,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "b07a0221",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/IntelliJWorkplace/LeetCodeToGithub/LeetCode/src",
     "onboarding.tips.debug.path": "C:/IntelliJWorkplace/LeetCodeToGithub/LeetCode/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IntelliJWorkplace\LeetCodeToGithub\LeetCode\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,21 +54,21 @@
       <option name="presentableId" value="Default" />
       <updated>1722330881814</updated>
     </task>
-    <task id="LOCAL-00001" summary="2024-0730-1">
+    <task id="LOCAL-00001" summary="2024-0730-2">
       <option name="closed" value="true" />
-      <created>1722331345636</created>
+      <created>1722334374347</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1722331345636</updated>
+      <updated>1722334374347</updated>
     </task>
     <task id="LOCAL-00002" summary="2024-0730-1">
       <option name="closed" value="true" />
-      <created>1722331540078</created>
+      <created>1722334508391</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1722331540078</updated>
+      <updated>1722334508391</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -91,6 +85,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024-0730-2" />
     <MESSAGE value="2024-0730-1" />
     <option name="LAST_COMMIT_MESSAGE" value="2024-0730-1" />
   </component>

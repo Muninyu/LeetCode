@@ -1,36 +1,45 @@
 import java.util.LinkedList;
 
 public class problem006 {
-    public static void main(String[] args) {
-        String s = "PAYPALISHIRING";  //14
-        int numRows = 3;
+    public problem006() {
+    }
 
+    public static void main(String[] args) {
+        String s = "PAYPALISHIRING";
+        int numRows = 3;
         LinkedList[] listCharS = new LinkedList[numRows];
 
-        for(int i = 0; i < numRows; i++){
-            listCharS[i] = new LinkedList<>();
+        int tempS;
+        for(tempS = 0; tempS < numRows; ++tempS) {
+            listCharS[tempS] = new LinkedList();
         }
 
-        int tempS = 0;
+        tempS = 0;
         int i = 0;
-        int iterI = -1;
-        while(tempS != s.length()){
+
+        for(int iterI = -1; tempS != s.length(); ++tempS) {
             listCharS[i].add(s.charAt(tempS));
-            if(i == 0 || i == numRows - 1){
-                iterI = iterI * (-1);
+            if (i == 0 || i == numRows - 1) {
+                iterI *= -1;
             }
-            if(numRows != 1){
-                i = i + iterI;
+
+            if (numRows != 1) {
+                i += iterI;
             }
-            tempS++;
         }
+
         StringBuilder ansS = new StringBuilder();
-        for (LinkedList c :listCharS){
-            for (int j = 0; j < c.size(); j++){
+        LinkedList[] var8 = listCharS;
+        int var9 = listCharS.length;
+
+        for(int var10 = 0; var10 < var9; ++var10) {
+            LinkedList c = var8[var10];
+
+            for(int j = 0; j < c.size(); ++j) {
                 ansS.append(c.get(j));
             }
         }
+
         String ans = ansS.toString();
-//        return ans;
     }
 }
