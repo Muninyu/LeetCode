@@ -1,9 +1,6 @@
 import java.util.LinkedList;
 
 public class problem006 {
-    public problem006() {
-    }
-
     public static void main(String[] args) {
         String s = "PAYPALISHIRING";
         int numRows = 3;

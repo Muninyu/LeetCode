@@ -1,7 +1,4 @@
 public class problem007 {
-    public problem007() {
-    }
-
     public static void main(String[] args) {
         int x = 1534236469;
         String stringX = Integer.toString(x);
