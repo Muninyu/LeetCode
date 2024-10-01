@@ -4,21 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fb40b4-5cfc-40c7-842f-1d3a716867a0" name="Changes" comment="2024-0730-1">
+    <list default="true" id="a6fb40b4-5cfc-40c7-842f-1d3a716867a0" name="Changes" comment="2024-0916-1">
+      <change afterPath="$PROJECT_DIR$/src/problem053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem238.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2024_7_30_6_48___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_7_30_下午6_48_取消提交了更改_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem007.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Muninyu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Muninyu/LeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;93e2818c-b57c-4e53-b22a-3258e313b7ff&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -32,18 +58,88 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.problem001.executor": "Run",
+    "Application.problem002.executor": "Run",
+    "Application.problem003.executor": "Run",
+    "Application.problem004.executor": "Run",
+    "Application.problem005.executor": "Run",
+    "Application.problem008.executor": "Run",
+    "Application.problem009.executor": "Run",
+    "Application.problem053.executor": "Run",
+    "Application.problem121.executor": "Run",
+    "Application.problem152.executor": "Run",
+    "Application.problem153.executor": "Run",
+    "Application.problem238.executor": "Run",
+    "Application.question3.executor": "Run",
+    "Application.question4.executor": "Run",
+    "Application.question5.executor": "Run",
+    "Application.question6.executor": "Run",
+    "Application.question7.executor": "Run",
+    "Application.question8.executor": "Run",
+    "Application.question9.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.testHashmap.executor": "Run",
+    "Application.testList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "b07a0221",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IntelliJWorkplace/LeetCodeToGithub/LeetCode/src",
-    "onboarding.tips.debug.path": "C:/IntelliJWorkplace/LeetCodeToGithub/LeetCode/src/Main.java"
+    "last_opened_file_path": "C:/IntelliJWorkplace/my_plan-1",
+    "onboarding.tips.debug.path": "C:/IntelliJWorkplace/LeetCodeToGithub/LeetCode/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "应用程序.problem008.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\IntelliJWorkplace\LeetCodeToGithub\LeetCode\src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.problem153">
+    <configuration name="problem053" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem053" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem121" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem152" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem153" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem238" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.problem153" />
+        <item itemvalue="Application.problem152" />
+        <item itemvalue="Application.problem053" />
+        <item itemvalue="Application.problem238" />
+        <item itemvalue="Application.problem121" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +166,63 @@
       <option name="project" value="LOCAL" />
       <updated>1722334508391</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2024-0730-1">
+      <option name="closed" value="true" />
+      <created>1722336747481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722336747481</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2024-0730-1">
+      <option name="closed" value="true" />
+      <created>1722336769923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722336769923</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2024-0730-1">
+      <option name="closed" value="true" />
+      <created>1723401801705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723401801705</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2024-0812-1">
+      <option name="closed" value="true" />
+      <created>1723402239564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723402239564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2024-0812-2">
+      <option name="closed" value="true" />
+      <created>1723404372365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723404372365</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2024-0821-1">
+      <option name="closed" value="true" />
+      <created>1724346851522</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724346851522</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2024-0916-1">
+      <option name="closed" value="true" />
+      <created>1726497399976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726497399976</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +230,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -87,7 +251,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024-0730-2" />
     <MESSAGE value="2024-0730-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-0730-1" />
+    <MESSAGE value="2024-0812-1" />
+    <MESSAGE value="2024-0812-2" />
+    <MESSAGE value="2024-0821-1" />
+    <MESSAGE value="2024-0916-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-0916-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
